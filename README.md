@@ -1,17 +1,26 @@
-# Excel-project_Road-accident-analysis
-I've dived deep into the numbers to uncover insights about accident trends, locations, and contributing factors. 📉📍
+# Road-Accident-Dashboard-Excel-Project
+**GitHub Repository Description**: Road Safety Dashboard
 
-𝗧𝗼𝗼𝗹 𝗨𝘀𝗲𝗱: 𝗘𝘅𝗰𝗲𝗹
+Welcome to the Road Safety Dashboard GitHub repository! 🚦📊
+# **Project Overview**:
+This repository hosts the codebase for a comprehensive Road Dashboard designed for the years 2021 and 2022. The dashboard provides valuable insights into road safety metrics, aiding in understanding and analyzing various aspects of road accidents and casualties. Developed for our client, this dashboard aims to enhance awareness and decision-making related to road safety.
+# Problem Statement 
+The client wants to create a Road Dashboard for years 2021 and 2022 so that they can have insight on the below requirements:-
+- **Primary KPI**- Total casualties taken place after the accident
+- **Primary KPIs** - Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle
+- **Secondary KPIs**- Total Casualties with respect to vehicle type
+- Monthly trend showing a comparison of casualties for the Current Year and the Previous Year
+- Maximum casualties by Road Type
+- Distribution of Total casualties by road surface
+- Relation Between Casualties by Area / Location & by Day/Night
+# Dataset 
+The data used is road accident data of uk having 3.07 lakhs rows and 21 fields for the years 2021 and 2022. Data is stored in a single table.
+# Analyses derived from the dataset
+## Overview 
+![Untitled design](https://github.com/jivanjotk/Road-Accident-Dashboard-Excel-Project/assets/122741477/35fe8e66-586b-48da-98a0-831a95f375d4)
+## Timeline and Slicers 
 
-𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗙𝗼𝗹𝗹𝗼𝘄𝗲𝗱:
 
-𝗥𝗲𝗮𝗱𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 for better Understanding.
-𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 it as required.
-𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗱𝗮𝘁𝗮 and creating additional columns like month and year.
-𝗗𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 with the help of Pivot Tables
-𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:
 
-Creating Multiple Pivots and Exploring to analyze.
-Utilization of formula and making dashboard dynamic
-Use of Hyperlink for easy navigation and drop email as required
-Grouping of categorical data to make it concise for usage and better outcomes.
+https://github.com/jivanjotk/Road-Accident-Dashboard-Excel-Project/assets/122741477/2b121121-ea10-4053-9d12-f667586e6b3b
+
