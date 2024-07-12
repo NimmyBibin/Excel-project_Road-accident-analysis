@@ -20,7 +20,5 @@ The data used is road accident data of uk having 3.07 lakhs rows and 21 fields f
 ![Untitled design](https://github.com/NimmyBibin/Excel-project_Road-accident-analysis/blob/main/Dashboard.PNG))
 ## Timeline and Slicers 
 
-
-
-https://github.com/jivanjotk/Road-Accident-Dashboard-Excel-Project/assets/122741477/2b121121-ea10-4053-9d12-f667586e6b3b
+(https://github.com/NimmyBibin/Excel-project_Road-accident-analysis/blob/main/UK_Road_Accident.mp4)
 
